@@ -1,0 +1,6 @@
+﻿  Source.c
+D:\Embedded\Task 1\Task 1\Source.c(7,8): warning C4013: 'system' undefined; assuming extern returning int
+D:\Embedded\Task 1\Task 1\Source.c(22,8): warning C4473: 'scanf' : not enough arguments passed for format string
+D:\Embedded\Task 1\Task 1\Source.c(22,8): message : placeholders and their parameters expect 1 variadic arguments, but 0 were provided
+D:\Embedded\Task 1\Task 1\Source.c(22,8): message : the missing variadic argument 1 is required by format string '%c'
+D:\Embedded\Task 1\Task 1\Source.c(22,2): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
